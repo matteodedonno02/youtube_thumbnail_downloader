@@ -1,9 +1,10 @@
 import './App.css'
+import SearchForm from './component/SearchForm'
 
 function App() {
   return (
     <div className='App'>
-      <h1>Hi</h1>
+      <SearchForm />
     </div>
   )
 }
